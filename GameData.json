@@ -68,5 +68,19 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Formula Car 4x4 Derby 2021 ",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/us/app/formula-car-4x4-derby-2021/id1567006286",
+    "m_PackageID": "com.usama.nawaz.formula.car4x4.derby2021",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon06.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
   }
 ]
