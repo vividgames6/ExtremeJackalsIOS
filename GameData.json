@@ -9,7 +9,7 @@
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01.jpg?raw=1"
     ],
     "m_Probability": {
-      "m_ChanceWeight": 100
+      "m_ChanceWeight": 150
     },
     "m_ColorTheme": "#06d0eb"
   },
@@ -23,7 +23,7 @@
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon02.jpg?raw=1"
     ],
     "m_Probability": {
-      "m_ChanceWeight": 100
+      "m_ChanceWeight": 200
     },
     "m_ColorTheme": "#8f3002"
   },
