@@ -9,7 +9,7 @@
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01.jpg?raw=1"
     ],
     "m_Probability": {
-      "m_ChanceWeight": 150
+      "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#06d0eb"
   },
@@ -23,7 +23,7 @@
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon02.jpg?raw=1"
     ],
     "m_Probability": {
-      "m_ChanceWeight": 200
+      "m_ChanceWeight": 150
     },
     "m_ColorTheme": "#45b6fe"
   },
@@ -70,11 +70,11 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Formula Car 4x4 Derby 2021 ",
+    "m_Name": "XMAS 3D Santa Run",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/us/app/formula-car-4x4-derby-2021/id1567006286",
-    "m_PackageID": "com.usama.nawaz.formula.car4x4.derby2021",
+    "m_IOSUrl": "https://apps.apple.com/us/app/xmas-3d-santa-run-gift-rush/id1600270692",
+    "m_PackageID": "com.usama.nawaz.xmas.santa.run.gift.rush.sim",
     "m_ImageUrls": [
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon06.jpg?raw=1"
     ],
