@@ -28,34 +28,6 @@
     "m_ColorTheme": "#45b6fe"
   },
   {
-    "m_Name": "4x4 Train Car Derby Game 2022 ",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/pk/app/4x4-train-car-derby-game-2022/id1590365737",
-    "m_PackageID": "com.daud.amin.train.car.derby4x4.demolition.game",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon03.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
-    "m_Name": "Motocross Bike Stunts Master ",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/pk/app/motocross-bike-stunts-master/id1590648334",
-    "m_PackageID": "com.daud.amin.motocross.bike.stunts.master",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon04.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
     "m_Name": "Spider Wheel Robot War Game",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
