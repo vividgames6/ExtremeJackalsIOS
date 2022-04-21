@@ -28,6 +28,34 @@
     "m_ColorTheme": "#45b6fe"
   },
   {
+    "m_Name": "Tank Drone Robot Game",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/ca/app/tank-drone-robot-game/id1610693052",
+    "m_PackageID": "com.daud.amin.tank.drone.robot.game",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon03.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Air Force Shooter Combat 3D",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/ca/app/air-force-shooter-combat-3d/id1613315240",
+    "m_PackageID": "com.daud.amin.air.force.shooter.combat",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon04.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
+  },
+  {
     "m_Name": "Spider Wheel Robot War Game",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
