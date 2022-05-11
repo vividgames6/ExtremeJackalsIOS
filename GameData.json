@@ -82,5 +82,19 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Washing Simulator 3D",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/us/app/washing-simulator-3d/id1621504441",
+    "m_PackageID": "com.usama.nawaz.washing.simulator.3d",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon07.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
   }
 ]
