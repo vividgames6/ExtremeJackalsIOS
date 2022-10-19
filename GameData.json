@@ -42,11 +42,11 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Air Force Shooter Combat 3D",
+    "m_Name": "Sniper battle 3D",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/ca/app/air-force-shooter-combat-3d/id1613315240",
-    "m_PackageID": "com.daud.amin.air.force.shooter.combat",
+    "m_IOSUrl": "https://apps.apple.com/us/app/sniper-battle-3d-gun-games/id1631795973",
+    "m_PackageID": "com.usama.nawaz.sniper.battle.gun.games",
     "m_ImageUrls": [
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon04.jpg?raw=1"
     ],
@@ -70,11 +70,11 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Guardian Fighter Hero",
+    "m_Name": "Monster Truck Crash Derby",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/us/app/guardian-fighter-hero/id1616814793",
-    "m_PackageID": "com.usama.nawaz.guardian.fighter.hero",
+    "m_IOSUrl": "https://apps.apple.com/us/app/monster-truck-crash-derby-2021/id1550307353",
+    "m_PackageID": "com.usama.nawaz.monster.truck.crash.derby2021",
     "m_ImageUrls": [
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon06.jpg?raw=1"
     ],
@@ -84,13 +84,27 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Washing Simulator 3D",
+    "m_Name": "FPS PvP Battle Heroes",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/us/app/washing-simulator-3d/id1621504441",
-    "m_PackageID": "com.usama.nawaz.washing.simulator.3d",
+    "m_IOSUrl": "https://apps.apple.com/ng/app/fps-pvp-battle-heroes/id1635333644",
+    "m_PackageID": "com.daud.amin.fps.pvp.hero.battle",
     "m_ImageUrls": [
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon07.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Cop Car Chase Police Simulator",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/us/app/cop-car-chase-police-simulator/id1639340628",
+    "m_PackageID": "com.usama.nawaz.cop.car.chase.police.simulator",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon08.jpg?raw=1"
     ],
     "m_Probability": {
       "m_ChanceWeight": 100
