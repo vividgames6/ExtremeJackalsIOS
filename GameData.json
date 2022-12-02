@@ -14,48 +14,6 @@
     "m_ColorTheme": "#06d0eb"
   },
   {
-    "m_Name": "Monster Truck 4x4 TDM Derby",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/us/app/monster-truck-4x4-tdm-derby/id1585481171",
-    "m_PackageID": "com.usama.nawaz.monster.truck4x4.tdm.derby",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon02.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 150
-    },
-    "m_ColorTheme": "#45b6fe"
-  },
-  {
-    "m_Name": "Tank Drone Robot Game",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/ca/app/tank-drone-robot-game/id1610693052",
-    "m_PackageID": "com.daud.amin.tank.drone.robot.game",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon03.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
-    "m_Name": "Sniper battle 3D",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/us/app/sniper-battle-3d-gun-games/id1631795973",
-    "m_PackageID": "com.usama.nawaz.sniper.battle.gun.games",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon04.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
     "m_Name": "Spider Wheel Robot War Game",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
@@ -77,20 +35,6 @@
     "m_PackageID": "com.usama.nawaz.monster.truck.crash.derby2021",
     "m_ImageUrls": [
       "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon06.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
-    "m_Name": "FPS PvP Battle Heroes",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/ng/app/fps-pvp-battle-heroes/id1635333644",
-    "m_PackageID": "com.daud.amin.fps.pvp.hero.battle",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon07.jpg?raw=1"
     ],
     "m_Probability": {
       "m_ChanceWeight": 100
