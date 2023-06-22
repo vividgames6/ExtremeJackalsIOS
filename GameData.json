@@ -55,5 +55,19 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Scorpion Transform",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/us/app/scorpion-war-robot-transform/id1580364578",
+    "m_PackageID": "com.usama.nawaz.scorpion.robot.war.helicopter.game",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon02.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
   }
 ]
