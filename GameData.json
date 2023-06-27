@@ -1,12 +1,13 @@
 [
   {
-    "m_Name": "Crocodile Robot Jet Transform",
+    "m_Name": "Police Car Simulator",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
-    "m_IOSUrl": "https://apps.apple.com/ca/app/crocodile-robot-jet-transform/id1591596801",
-    "m_PackageID": "com.daud.amin.crocodile.robot.jet.monster.truck.game",
+    "m_IOSUrl": "https://apps.apple.com/us/app/cop-car-chase-police-simulator/id1639340628",
+    "m_PackageID": "com.usama.nawaz.cop.car.chase.police.simulator",
     "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01.jpg?raw=1"
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01.jpg?raw=1",
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01_01.jpg?raw=1"
     ],
     "m_Probability": {
       "m_ChanceWeight": 100
@@ -14,7 +15,7 @@
     "m_ColorTheme": "#06d0eb"
   },
   {
-    "m_Name": "Spider Wheel Robot War Game",
+    "m_Name": "Spider War Robot",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
     "m_IOSUrl": "https://apps.apple.com/us/app/spider-wheel-robot-war-game/id1569812974",
@@ -28,7 +29,7 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Monster Truck Crash Derby",
+    "m_Name": "Monster Truck Derby",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
     "m_IOSUrl": "https://apps.apple.com/us/app/monster-truck-crash-derby-2021/id1550307353",
@@ -43,7 +44,7 @@
     "m_ColorTheme": "#fb620c"
   },
   {
-    "m_Name": "Supply Truck Driving Simulator",
+    "m_Name": "Truck Driving Simulator",
     "m_Descirption": "a",
     "m_AndroidUrl": "",
     "m_IOSUrl": "https://apps.apple.com/us/app/supply-truck-driving-simulator/id6444184008",
